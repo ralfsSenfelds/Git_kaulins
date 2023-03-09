@@ -1,4 +1,3 @@
-package defaultPackage;
 
 public class Cirks {
 
