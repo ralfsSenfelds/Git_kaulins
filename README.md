@@ -10,5 +10,5 @@ Java projekts, kas demonstrē Git un GitHub izmantošanu. "Metamā kauliņa prog
 - [x] Lokālo projektu izvietot Github
 - [x] Papildināto GitHub saturu iegūt lokālai lietošanai
 - [ ] Projektam pieslēdzies vēl viens programmētājs un izmēģināt kopdarbošanos
-- [x] Projektā ieviests juans zars
+- [x] Projektā ieviests jauns zars
 - [ ] Sapludināti zari, novērsts merge konflikts
