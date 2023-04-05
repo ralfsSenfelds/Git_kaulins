@@ -8,7 +8,7 @@ Java projekts, kas demonstrē Git un GitHub izmantošanu. "Metamā kauliņa prog
 - [x] Izveidot savu GitHub kontu
 - [x] Izveidot GitHub krātuvi
 - [x] Lokālo projektu izvietot Github
-- [ ] Papildināto GitHub saturu iegūt lokālai lietošanai
-- [ ] Projektam pieslēdzies vēl viens programmētājs un izmēģināt kopdarbošanos
-- [ ] Projektā ieviests juans zars
-- [ ] Sapludināti zari, novērs merge konflikts
+- [x] Papildināto GitHub saturu iegūt lokālai lietošanai
+- [x] Projektam pieslēdzies vēl viens programmētājs un izmēģināt kopdarbošanos
+- [x] Projektā ieviests juans zars
+- [x] Sapludināti zari, novērs merge konflikts
